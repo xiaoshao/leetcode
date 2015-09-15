@@ -1,0 +1,7 @@
+./idea
+build
+out
+.gradle
+gradleInit.iml
+gradleInit.ipr
+gradleInit.iws
